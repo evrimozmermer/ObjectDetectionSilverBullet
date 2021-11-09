@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# pytorch
+*.pt
+*.pth
+
+# images
+*.png
+*.jpeg
+*.jpg
+
+# archived files
+*.zip
+*.tar
+
 # Distribution / packaging
 .Python
 build/
